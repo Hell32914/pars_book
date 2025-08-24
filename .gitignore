@@ -1,0 +1,10 @@
+# Виртуальное окружение
+.venv/
+__pycache__/
+*.pyc
+
+# Выводные файлы
+output/
+*.xlsx
+*.csv
+screenshots/
